@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="pictureDes">this is a picture of </string>
+    <string name="ButtonText">Say Hello</string>
+    <string name="my_intro">Hello World! My name is Yunior Sánchez,I love development, and I am looking to be able to develop an App that takes Security as its main focus so that its users are confident to use it at all times and not be scare of how the app might use their information</string>
+    <string name="click_the_button">Click the button below</string>
+</resources>
