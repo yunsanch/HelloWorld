@@ -4,7 +4,7 @@ Submitted by: **Yunior Sanchez**
 
 HelloWorld is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
-Time spent: 6 hours spent in total
+Time spent: 8 hours spent in total
 
 ## Required Features
 
