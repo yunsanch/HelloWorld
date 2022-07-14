@@ -34,7 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
-
+The challenges that I faced were that my grable was not working so i had to uninstall and re-install android studio as well as some error that i encounter as i was making the ImageButton instead of the regular button
 ## License
 
     Copyright [yyyy] [name of copyright owner]
